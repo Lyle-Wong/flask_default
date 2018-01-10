@@ -1,1 +1,1 @@
-## use for init a flask project
+## Use for init a flask project [![Build Status](https://travis-ci.org/Lyle-Wong/flask_default.svg?branch=master)](https://travis-ci.org/Lyle-Wong/flask_default)
