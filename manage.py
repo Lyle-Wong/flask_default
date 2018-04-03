@@ -27,7 +27,7 @@ manager.add_command('shell', Shell(make_context=make_shell_context))
 manager.add_command('runserver', Server(host='127.0.0.1', port=5000))
 
 @manager.command
-def test(coverage=False):
+def test(coverage):
     """
     docstring here
         :param coverage=False: 
