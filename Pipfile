@@ -1,0 +1,21 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+flask = "*"
+flask-script = "*"
+
+
+[dev-packages]
+
+coverage = "*"
+nose = "*"
+
+
+[requires]
+
+python_version = "3.6"
